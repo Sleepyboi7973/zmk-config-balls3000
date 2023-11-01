@@ -1,0 +1,6 @@
+if SHIELD_balls3000
+
+config ZMK_KEYBOARD_NAME
+    default "balls3000"
+
+endif
